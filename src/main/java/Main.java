@@ -10,3 +10,7 @@ public class Main {
         factory.buildCar(car1);
     }
 }
+
+public void hello(){
+    System.out.println("Hello");
+}
